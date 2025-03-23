@@ -8,7 +8,7 @@ import chromadb
 
 llm = ChatGroq(
     temperature = 0,
-    groq_api_key = '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',
+    groq_api_key = 'XXXX',
     model_name = "llama-3.3-70b-versatile"
 )
 # response = llm.invoke('First person to walk over the moon')
